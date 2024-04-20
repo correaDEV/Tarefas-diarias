@@ -16,6 +16,10 @@
         <li>Siga as instruções no console para interagir com o gerenciador de tarefas.</li>
     </ol>
 
+    ## Reflexão sobre o aprendizado
+
+Este projeto me permitiu praticar conceitos fundamentais de C# e lógica de programação, incluindo manipulação de listas, estruturas de controle de fluxo e entrada/saída básica. Estou animado para aplicar esses conceitos em projetos futuros.
+
 
 
 
