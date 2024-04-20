@@ -1,15 +1,21 @@
 # Tarefas-diarias
-Gerenciador de tarefas
- // README:
-    // Este é um simples gerenciador de tarefas em C# que permite adicionar, visualizar e marcar tarefas como concluídas.
-    // 
-    // Funcionalidades:
-    // - Adicionar Tarefa: Permite adicionar uma nova tarefa à lista.
-    // - Visualizar Tarefas: Exibe todas as tarefas cadastradas, indicando se estão concluídas ou não.
-    // - Marcar Tarefa como Concluída: Permite marcar uma tarefa específica como concluída.
-    // - Sair: Encerra o programa.
-    //
-    // Como usar:
-    // 1. Clone este repositório em sua máquina local.
-    // 2. Compile e execute o programa usando uma IDE ou o compilador de C#.
-    // 3. Siga as instruções no console para interagir com o gerenciador de tarefas.
+<hr>
+<h1>Gerenciador de Tarefas</h1>
+    <p>Este é um simples gerenciador de tarefas em C# que permite adicionar, visualizar e marcar tarefas como concluídas.</p>
+<h2>Funcionalidades</h2>
+    <ul>
+        <li><strong>Adicionar Tarefa:</strong> Permite adicionar uma nova tarefa à lista.</li>
+        <li><strong>Visualizar Tarefas:</strong> Exibe todas as tarefas cadastradas, indicando se estão concluídas ou não.</li>
+        <li><strong>Marcar Tarefa como Concluída:</strong> Permite marcar uma tarefa específica como concluída.</li>
+        <li><strong>Sair:</strong> Encerra o programa.</li>
+    </ul>
+     <h2>Como usar</h2>
+    <ol>
+        <li>Clone este repositório em sua máquina local.</li>
+        <li>Compile e execute o programa usando uma IDE ou o compilador de C#.</li>
+        <li>Siga as instruções no console para interagir com o gerenciador de tarefas.</li>
+    </ol>
+
+
+
+
